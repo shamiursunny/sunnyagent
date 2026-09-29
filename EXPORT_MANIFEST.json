@@ -1,0 +1,600 @@
+{
+ "export": "V5.5_EXPORT",
+ "created": "2026-09-29",
+ "note": "EXPORT_MANIFEST.json excludes itself",
+ "file_count": 74,
+ "files": [
+  {
+   "path": "AGENT_DESIGN.md",
+   "source": "export agent (authored)",
+   "sha256": "dfd9b3f55c3ceffc4f54a6b75acafd17ba2096de95fe9ccfe358e8e74d2f856b",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "AGENT_DESIGN.md"
+  },
+  {
+   "path": "ARCHITECTURE.md",
+   "source": "export agent (authored)",
+   "sha256": "f2671e160a74ae45f838f89df59d7d69960340870ec257ed2c7cceb8601c894d",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "ARCHITECTURE.md"
+  },
+  {
+   "path": "BENCHMARK_RESEARCH.md",
+   "source": "export agent (authored)",
+   "sha256": "e6330c35ef7e245f8d5efb7c348c5bd14d0c032949dd41fbeb2a36da5da97d47",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "BENCHMARK_RESEARCH.md"
+  },
+  {
+   "path": "DECISION_LOG.md",
+   "source": "export agent (authored)",
+   "sha256": "a1c2a7ab08d8d60d9de670e5a810a48a5d418b86fb524fa30c983cb92591a20d",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "DECISION_LOG.md"
+  },
+  {
+   "path": "EXPERIMENT_PLAN.md",
+   "source": "export agent (authored)",
+   "sha256": "0102fe2b3dfa278ba109a22d438db613e5ff80d8892c5aa512100f9cc3232274",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "EXPERIMENT_PLAN.md"
+  },
+  {
+   "path": "EXPORT_VERIFICATION.md",
+   "source": "export agent (authored)",
+   "sha256": "0b018c816f0decdc7efdb1ed1c66e6b3310b440b6c52f0aad73d623e8dcceda2",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "EXPORT_VERIFICATION.md"
+  },
+  {
+   "path": "KAGGLE_SPECIFICATION.md",
+   "source": "export agent (authored)",
+   "sha256": "71d0ab14fc9ba81b03c9e7e3c19814e6928f8e47441dc1383511e6a849050d4a",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "KAGGLE_SPECIFICATION.md"
+  },
+  {
+   "path": "MEMORY_AND_RECOVERY.md",
+   "source": "export agent (authored)",
+   "sha256": "d8687df45f7fe479cdeac72edcb7a0c89d62197b812dc15a4d02a0153f29c402",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "MEMORY_AND_RECOVERY.md"
+  },
+  {
+   "path": "PROJECT_STATE.json",
+   "source": "export agent (authored)",
+   "sha256": "b4cb115baa78b6e4d5eb1b0df20df0566bf0bb83365e36e551661653b091ee51",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "PROJECT_STATE.json"
+  },
+  {
+   "path": "PROJECT_STATE.md",
+   "source": "export agent (authored)",
+   "sha256": "5582879c3e3ffdb6553a57fcc49b70b954e3a9cb86ae3f46fbf4ccd48a5dc3c7",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "PROJECT_STATE.md"
+  },
+  {
+   "path": "README.md",
+   "source": "export agent (authored)",
+   "sha256": "053cd2708e8c193e1b84ad520792e513077746199fcba9c5fa4898aaace88011",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "README.md"
+  },
+  {
+   "path": "RISKS_AND_UNKNOWNS.md",
+   "source": "export agent (authored)",
+   "sha256": "3260ab28e91e355f0f7129cdc2e1b1b9992b5f266bd35389a5eff70d79543237",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "RISKS_AND_UNKNOWNS.md"
+  },
+  {
+   "path": "SECURITY_AND_LICENSE_AUDIT.md",
+   "source": "export agent (authored)",
+   "sha256": "62b7fd7b57caf28f7e4ca6da5fbd599818196f6094ce0a3672964bb427473818",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "SECURITY_AND_LICENSE_AUDIT.md"
+  },
+  {
+   "path": "SOURCE_INDEX.md",
+   "source": "export agent (authored)",
+   "sha256": "b3d3f669cc8d4e7aaf1b621a937dcff6463c2e380cd262a437fac7b08b8e823c",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "SOURCE_INDEX.md"
+  },
+  {
+   "path": "SOURCE_REUSE_MATRIX.md",
+   "source": "export agent (authored)",
+   "sha256": "6f447c5eb9fef57a0011da6c92d6257d06e67eadf5714eb20f067d1b579d1ef2",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "SOURCE_REUSE_MATRIX.md"
+  },
+  {
+   "path": "TASK_LOG.md",
+   "source": "export agent (authored)",
+   "sha256": "098dde846cd7d8604a49ad2a4aad7e61102561fa77ae4ef4154ff3c32443814e",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "TASK_LOG.md"
+  },
+  {
+   "path": "TOOL_ARCHITECTURE.md",
+   "source": "export agent (authored)",
+   "sha256": "0f044a9f1d34a4d8462a6d636229e3a70f6b2a1ddb4b29bffce1b6266175b249",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "TOOL_ARCHITECTURE.md"
+  },
+  {
+   "path": "V0.5_BASELINE.md",
+   "source": "export agent (authored)",
+   "sha256": "6a6c3a66c4299e1b7a52271864421d7f35e8d1d2ec978c956327a9f45efdf3f6",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "V0.5_BASELINE.md"
+  },
+  {
+   "path": "V5.5_IMPLEMENTATION_PLAN.md",
+   "source": "export agent (authored)",
+   "sha256": "b5a148e70f95ea86659a3afac494a2ae519f8beccb582b5e7bec4db2c1113bb2",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "V5.5_IMPLEMENTATION_PLAN.md"
+  },
+  {
+   "path": "V5.5_RESEARCH_AND_ARCHITECTURE_PLAN.md",
+   "source": "export agent (authored)",
+   "sha256": "78f0c9939d5917b4b13c2ebe53f143a728b00e82f101a3fa7e25d1f41f9ec6d6",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "AUTHORED",
+   "description": "V5.5_RESEARCH_AND_ARCHITECTURE_PLAN.md"
+  },
+  {
+   "path": "architecture/CONTINUITY_AND_AUTOSAVE.md",
+   "source": "export agent (authored)",
+   "sha256": "642e107dab63d9cbaf2e8f7a77eed382146fbfe643f6f480d2b49af8dc900edd",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "PROPOSAL",
+   "description": "CONTINUITY_AND_AUTOSAVE.md"
+  },
+  {
+   "path": "architecture/experience_card_schema.json",
+   "source": "export agent (authored)",
+   "sha256": "c27b454d965d5e7d73f7756cdda78047ba821fb1ff2322e471edc02832e3fc84",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "PROPOSAL",
+   "description": "experience_card_schema.json"
+  },
+  {
+   "path": "architecture/recovery_state_machine.md",
+   "source": "export agent (authored)",
+   "sha256": "e83e36edb0618c484c11178e5ef2fc8fbf5a27cc5889b811465f72b378576109",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "PROPOSAL",
+   "description": "recovery_state_machine.md"
+  },
+  {
+   "path": "architecture/submission_tree_proposal.md",
+   "source": "export agent (authored)",
+   "sha256": "a2eaa53ab8f886ba9126caca8b6c7d95e0b0a092d482c2def9dad41efa01e50d",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "PROPOSAL",
+   "description": "submission_tree_proposal.md"
+  },
+  {
+   "path": "experiments/ablation_matrix.md",
+   "source": "export agent (authored)",
+   "sha256": "8df45c79f83747bdfa2d451aaa0c370c26d79705630ff0e4f3906926b7981118",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "PROPOSAL",
+   "description": "ablation_matrix.md"
+  },
+  {
+   "path": "experiments/result_record_schema.json",
+   "source": "export agent (authored)",
+   "sha256": "ad44019406d24ac133d5c2970fc1db40242e0ba6bd6af2d0966318a634023575",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "PROPOSAL",
+   "description": "result_record_schema.json"
+  },
+  {
+   "path": "manifests/SOURCE_COMMITS.json",
+   "source": "generated from git",
+   "sha256": "f0c5cb95cc5d46f232f15d75c39237c37db35323ace1fb280c984642798931f5",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "MANIFEST",
+   "description": "HEAD commits/branches of cloned sources"
+  },
+  {
+   "path": "source-code/ORIGIN.md",
+   "source": "export agent (authored)",
+   "sha256": "8af80b8b1c7c5ccffa3eeea90829c38f754ac139b9df41aabd9bca48214d3c9b",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "PROVENANCE NOTE",
+   "description": "origin/licence table for copied files"
+  },
+  {
+   "path": "source-code/agent-skills/LICENSE",
+   "source": "addyosmani/agent-skills (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "6f202f8bd568cd730dbb2b0d1f8e243bc74c2fa1f64dbce9b2c7ea08bd5c9fd7",
+   "license": "MIT",
+   "classification": "LICENSE FILE",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "source-code/agent-skills/skills/context-engineering/SKILL.md",
+   "source": "addyosmani/agent-skills (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "8b736cb9e55b82b265ab6ff78349c0e826e8a6df550deddf665b7fb3ff858b63",
+   "license": "MIT",
+   "classification": "ADAPT",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "source-code/agent-skills/skills/debugging-and-error-recovery/SKILL.md",
+   "source": "addyosmani/agent-skills (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "21f3960f5d7ae2cc95c40896545004dbbcbbd752ea65fc2d53962554d4174220",
+   "license": "MIT",
+   "classification": "ADAPT",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "source-code/agent-skills/skills/planning-and-task-breakdown/SKILL.md",
+   "source": "addyosmani/agent-skills (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "ed0f90cc5951ddd4bcab7f871f64efec93a49af9279ef93bc470da77ad8da3f7",
+   "license": "MIT",
+   "classification": "ADAPT",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "source-code/agent-skills/skills/test-driven-development/SKILL.md",
+   "source": "addyosmani/agent-skills (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "7c0c6ac057c19d7f8be65d9f49c3a638703b868f4625c78b70da5439d5d74fca",
+   "license": "MIT",
+   "classification": "ADAPT",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "source-code/agentskills/LICENSE",
+   "source": "agentskills/agentskills (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "993da3f8d330d69108e521636555f7783ef81d46b904394c59ec5ff651331fe5",
+   "license": "Apache-2.0",
+   "classification": "LICENSE FILE",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "source-code/agentskills/docs/specification.mdx",
+   "source": "agentskills/agentskills (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "b9079c0c10b7930e8c6a20ff2bc10cda2a3343c55185120e3f1116a1a529b220",
+   "license": "Apache-2.0",
+   "classification": "REFERENCE ONLY",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "source-code/gemma-coder/LICENSE",
+   "source": "shamiursunny/gemma-coder (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "40c44e09833c705305a4f2ab82e9b6e14dda7e589ce3c584810cf02206717669",
+   "license": "MIT",
+   "classification": "LICENSE FILE",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "source-code/gemma-coder/gemma_coder.py",
+   "source": "shamiursunny/gemma-coder (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "8b950f24a3ad89f3c1743a01c851d58185c5715645b4ae01ebd8264c1a46cd74",
+   "license": "MIT",
+   "classification": "ADAPT",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "source-code/mini-swe-agent/LICENSE.md",
+   "source": "shamiursunny/mini-swe-agent (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "0f796e58f91d1c07bb2c1b1d0f8bf3a83017c3a5dec1bdc6fae733b2cd2e875b",
+   "license": "MIT",
+   "classification": "LICENSE FILE",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "source-code/mini-swe-agent/src/minisweagent/agents/default.py",
+   "source": "shamiursunny/mini-swe-agent (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "e8ef8aa365942d739c2ec5cb0879f60f377d2dc2de8ec670aaedf3bafb45a4c2",
+   "license": "MIT",
+   "classification": "ADAPT",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "source-code/mini-swe-agent/src/minisweagent/environments/local.py",
+   "source": "shamiursunny/mini-swe-agent (verbatim copy; commit in manifests/SOURCE_COMMITS.json)",
+   "sha256": "01dd33ae6be897458611911cc0eee1389092ea9fc6788c7eb24773e7c6342b1c",
+   "license": "MIT",
+   "classification": "REFERENCE ONLY",
+   "description": "third-party file, unmodified"
+  },
+  {
+   "path": "sources/S01_gemma-chat.md",
+   "source": "export agent (authored)",
+   "sha256": "263add8acb10314e5cfaae991402753b8b8494421b20f87ff5ae1c5e504e20ae",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S02_gemma-coder.md",
+   "source": "export agent (authored)",
+   "sha256": "d07c99795f1eac473ca4f847807b2dd32221888b210f32e2e937af96be39e4c7",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S03_git-ai.md",
+   "source": "export agent (authored)",
+   "sha256": "d0cdab5b1cb3029b7b95b29f93e024c413526e7969d87441304d2f0371cadb67",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S04_SWE-agent.md",
+   "source": "export agent (authored)",
+   "sha256": "dba73f2ca540e9019e0796bfe90f0abf8d9a2f080e13f976e605eb45730b43d4",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S05_MemGovern.md",
+   "source": "export agent (authored)",
+   "sha256": "baf5305a89d5fa23962a04626a06d1882a62b08727e988fbf6f9898a2624a750",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S06_mini-swe-agent.md",
+   "source": "export agent (authored)",
+   "sha256": "52443e4c2b724513af598c20509345dc76c7fbabfe3365fb00a4295db3d8a653",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S07_ProgramBench.md",
+   "source": "export agent (authored)",
+   "sha256": "cec2cfa3cf8474b2513a7e1443df85bd3aff00d4af3084dd999de797dcd33fa5",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S08_BenchGuard.md",
+   "source": "export agent (authored)",
+   "sha256": "bd92df5fd7f1a8b836ad867da6e4173b8ca101b0bc385b60b21b25c2247f39be",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S09_minimal-agent.md",
+   "source": "export agent (authored)",
+   "sha256": "e923d09e36666d2f22f147d50fa81ea64cbce9660c20ed103a4217cdb2159934",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S10_YouTube.md",
+   "source": "export agent (authored)",
+   "sha256": "958a4222a9dbece52ca74c5b0c12653839634f3c56537d26c339f9bbd01899dc",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S11_hindsight.md",
+   "source": "export agent (authored)",
+   "sha256": "33e19d3c57e4bfcad900020c825ba052bfd238596b0d34e7e8d5aa83714b7016",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S12_agentskills.md",
+   "source": "export agent (authored)",
+   "sha256": "8ac5a9dc28d5ee012e225532fdbf3860770341250b9b27af15a3abc9fc61305b",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S13_addyosmani_agent-skills.md",
+   "source": "export agent (authored)",
+   "sha256": "a941b1ea86c36bc5ea09714dbcd0acba9075ac4d160b8fae3d224f1e46207343",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S14_ai-agent-benchmark-compendium.md",
+   "source": "export agent (authored)",
+   "sha256": "38c3dcee8f9377ef43f05be1aad18db7bd4158992e136f0ca6bf686cc97dc8d9",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S15_AgentBench.md",
+   "source": "export agent (authored)",
+   "sha256": "74898d35167e5cb41f7ff2ea5d58d47bf7e190dc435ce1a45001066cf048c320",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S16_Kaggle.md",
+   "source": "export agent (authored)",
+   "sha256": "44e43ec014c53ddbac272477af045fb4a978748ae95e9e39a9f64eced8f94ea5",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S17_Kaggle_kaggle-benchmarks.md",
+   "source": "export agent (authored)",
+   "sha256": "0d9820969aa1f5f33e299bb6364f98e803ae3b1eaa79b61bc5fe2b89a24df1d8",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S18_Kaggle.md",
+   "source": "export agent (authored)",
+   "sha256": "0c05d0a22a8574263de899286f1f042e020bc552ad7b0e40c856f1198a2b3324",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S19_Mirror.md",
+   "source": "export agent (authored)",
+   "sha256": "51907a2174eb07b75c8726f752bff0fa62a52dd3b306d24c9bb30f19824a5802",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S20_Third-party.md",
+   "source": "export agent (authored)",
+   "sha256": "6febb963ad190c574b6debeb3524a85b4ef48e287dfb8f1dd0b9f067749f36b9",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S21_Project.md",
+   "source": "export agent (authored)",
+   "sha256": "c149631d268ba175a11ee6f50e458783ea0fa5d497041a0bf06ef1f7248955c0",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/S22_Export.md",
+   "source": "export agent (authored)",
+   "sha256": "42d2e8eabc3edee1ae3eac5b151e4b1c7a19399d00032e6a3981e0e11094f7d1",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "SOURCE AUDIT RECORD",
+   "description": "15-field audit record"
+  },
+  {
+   "path": "sources/inventory/Kaggle_kaggle-benchmarks.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "8b9d90366248e8647b2a9c3f47eec3d7d6136785cb11f6bcf3853b5849d8465b",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  },
+  {
+   "path": "sources/inventory/addyosmani_agent-skills.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "63159ec3b1343ab2e4d75f1c04e1cfd3452ffb2b917d40f7e8977bd117e695d6",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  },
+  {
+   "path": "sources/inventory/agentskills_agentskills.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "7f53c419f48b6e815e6a750829afe67abb93b4dc3c044686c1d31a1261a1b1e0",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  },
+  {
+   "path": "sources/inventory/k8.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "1e143fb10e22f4be2b0d9ba1376eebddf1b3f31f5509198c315e4a48e8ea9709",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  },
+  {
+   "path": "sources/inventory/shamiursunny_AgentBench.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "3dcb56ac10f978db3a85e7a62836ddff589df18c92e90b524821c41044046ff6",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  },
+  {
+   "path": "sources/inventory/shamiursunny_SWE-agent.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "563225564852e9193be5e793780f69061b80a8e1d0a99b1d3d38aee9c22f2430",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  },
+  {
+   "path": "sources/inventory/shamiursunny_ai-agent-benchmark-compendium.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "e3455c05535bb44e95c98f4a41ce40dc64ea6292834dd0ed62f54fe22a1c1491",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  },
+  {
+   "path": "sources/inventory/shamiursunny_gemma-chat.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "c5ea9f74816245266f4ddf160fd29937442691dd0b9096941b03900f63ddd093",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  },
+  {
+   "path": "sources/inventory/shamiursunny_gemma-coder.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "ebf72d235b085e7ea78add168dc2be785c8b20c52446d85e9b075dd71894a053",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  },
+  {
+   "path": "sources/inventory/shamiursunny_git-ai.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "b84fd4c1f7115056c4e8dccd2147094caa72d825e8b31ce92eb157aea377837d",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  },
+  {
+   "path": "sources/inventory/shamiursunny_hindsight.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "3b05090723cf5114b4b7e05f8d64af7b9f375a6c72d26bda42773c11cc06c2a1",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  },
+  {
+   "path": "sources/inventory/shamiursunny_mini-swe-agent.txt",
+   "source": "generated from read-only clone listing",
+   "sha256": "e16703e9794f57414ff267e36cd6a48f488b27da19a62fa9322311c0b56e7738",
+   "license": "Authored by export agent; no license assigned (owner to choose)",
+   "classification": "INVENTORY",
+   "description": "depth<=2 file inventory"
+  }
+ ]
+}

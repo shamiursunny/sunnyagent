@@ -1,0 +1,34 @@
+# depth<=2 file inventory of shamiursunny_gemma-chat (HEAD 6050eacfe740b207ad5ceea298f86a717a6b5cac|Tue Apr 28 15:56:12)
+# path<TAB>bytes
+.gitignore	447
+Gemma-app-icon.png	330151
+LICENSE	1063
+README.md	5549
+electron-builder.yml	791
+electron.vite.config.ts	634
+gemma-extruded-app.png	500799
+package-lock.json	310309
+package.json	1368
+postcss.config.js	78
+tailwind.config.js	645
+tsconfig.json	119
+tsconfig.node.json	347
+tsconfig.web.json	400
+Assets 3.xcassets/AppIcon.appiconset/1024-mac.png	36352
+Assets 3.xcassets/AppIcon.appiconset/128-mac.png	3608
+Assets 3.xcassets/AppIcon.appiconset/16-mac.png	322
+Assets 3.xcassets/AppIcon.appiconset/256-mac.png	7870
+Assets 3.xcassets/AppIcon.appiconset/32-mac.png	872
+Assets 3.xcassets/AppIcon.appiconset/512-mac.png	17154
+Assets 3.xcassets/AppIcon.appiconset/64-mac.png	1710
+Assets 3.xcassets/AppIcon.appiconset/Contents.json	1552
+src/shared/types.ts	2888
+src/renderer/index.html	762
+src/main/index.ts	18895
+src/main/mlx.ts	16489
+src/main/tools.ts	22302
+src/main/workspace.ts	12390
+src/preload/index.d.ts	93
+src/preload/index.ts	3356
+build/icon.icns	998508
+build/icon.png	494860

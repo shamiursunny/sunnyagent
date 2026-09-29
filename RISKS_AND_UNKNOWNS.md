@@ -1,0 +1,6 @@
+# RISKS_AND_UNKNOWNS
+
+## Blocking unknowns
+U-1 V0.5 contents/state/results (repo unreadable). U-2 official HARNESS_README, rules, dataset unread. U-3 mirror fidelity (single scaffold commit 2026-09-28, author unknown). U-4 Native function-calling status (gemma-coder README vs harness parser). U-5 Submission limits/quotas. U-6 Local GPU access for real-model runs (official: 4x L4). U-7 kaggle.com/benchmarks body and YouTube content unread. U-8 Whether "custom tools" in the official excerpt means anything beyond skills/sub-agents.
+## Risks
+R-1 Architecture premise conflict (Python core vs declarative submission) - mitigated by OD-1. R-2 32k context exhaustion by verbose skills/tool output. R-3 Memory contamination with held-out tasks. R-4 Low baseline scores reported by third parties (0.05 claim, unverified) => small changes may not move score; noise unknown. R-5 Deadlines: final 2026-12-02 (~9 weeks from 2026-09-29). R-6 Third-party claims about broken graph tools (unverified) could waste effort. R-7 Personal agent security (SEC-1). R-8 Copying restrictions (compendium, papers, mirror). R-9 Competition rules might restrict external data/IP - unread. R-10 Long official runs (12h) slow learning loop.

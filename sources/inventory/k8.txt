@@ -1,0 +1,15 @@
+# depth<=2 file inventory of k8 (HEAD 2d5db351f1a5caea4631f5f6d9bbedff22d62378|Mon Sep 28 23:52:50)
+# path<TAB>bytes
+.gitignore	616
+README.md	1365
+requirements-dev.txt	201
+agent-ideas/claude-idea.md	21174
+agent-ideas/codex-idea.md	15859
+experiments/CHANGELOG.md	525
+docs/Data.md	8416
+docs/HARNESS_README.md	49356
+docs/Overview.md	8948
+submission/skills/.gitkeep	0
+submission/sub_agents/.gitkeep	0
+submission/adapters/.gitkeep	0
+devtools/mlflow/.gitkeep	0

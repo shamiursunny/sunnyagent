@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "project": "Gemma 4 Developer Agent competition - V5.5 research",
+  "edition": "research-export (NOT the authoritative in-repo state; see warning in PROJECT_STATE.md)",
+  "current_baseline": {
+    "name": "V0.5",
+    "branch": "gemma4-kaggle-v0.5-dual-space",
+    "artifact": "gemma4-kaggle/artifacts/v0.5-dual-space/submission.zip",
+    "sha256_claimed_by_user": "cb854c2906de49624e646ca4b9826c9379eb1e6f77551d3459006a25343fb68f",
+    "verified": false,
+    "frozen": true
+  },
+  "current_stage": "ST02",
+  "first_incomplete_stage": "ST00",
+  "completed_stages": ["ST01 (with gaps)", "ST02 (local only, not uploaded)"],
+  "incomplete_stages": ["ST03", "ST04", "ST05", "ST06", "ST07", "ST08", "ST09", "ST10", "ST11"],
+  "blocked_stages": [{"id": "ST00", "reason": "implementation repo unreadable to research agent (HTTP 404 unauthenticated)"}],
+  "verified_facts": [
+    "Public repos listed in SOURCE_INDEX.md were cloned read-only; licenses and HEAD commits are in manifests/SOURCE_COMMITS.json",
+    "gemma_coder.py performs no workspace path confinement and uses shell=True (read from code)",
+    "kaggle-benchmarks local_development.md states local development is for the Kaggle internal team only and needs a Kaggle Model Proxy key",
+    "coding-agent-platform, gemma4-v5.5-research were not readable unauthenticated at audit time"
+  ],
+  "official_excerpt_facts": [
+    "Submission is submission.zip with agent.yaml at archive root (kaggle.com excerpt via search engine)",
+    "Config follows Google ADK Agent Config with restrictions preventing code execution outside a sandbox (excerpt)",
+    "Only gemma-4-31b-it-qat-w4a16-ct is supported, for every agent and subagent (excerpt)",
+    "12-hour limit to submit patches for all tasks incl. sandbox setup, excluding validation (excerpt)",
+    "Start 2026-09-23; paper deadline 2026-11-12; entry and team-merger 2026-11-25; final 2026-12-02; all 23:59 UTC (excerpt)"
+  ],
+  "source_derived_secondary": [
+    "Declarative-only, no Python entrypoints; closed tool registry; network none; 32,768-token context; 3 GiB size cap; allowed file extensions (third-party mirror of organizer docs, single commit dated 2026-09-28)"
+  ],
+  "unverified_items": [
+    "V0.5 contents, build report, Kaggle result, PROJECT_STATE/TASK_LOG history",
+    "Official HARNESS_README.md, sample_submission/, tasks.jsonl, official wheels, competition rules text",
+    "Mirror fidelity",
+    "Whether Gemma 4 has native function calling in this harness (gemma-coder README says no; mirror config implies a gemma4 tool parser)",
+    "All performance numbers from papers and third-party repos",
+    "YouTube source content; kaggle.com/benchmarks page body",
+    "Number/frequency limits on Kaggle submissions"
+  ],
+  "decisions": [
+    {"id": "D-001", "by": "user", "text": "V0.5 is a frozen baseline; never modify"},
+    {"id": "D-002", "by": "user", "text": "V5.5 is developed separately from V0.5 and reproducibly"},
+    {"id": "D-003", "by": "user", "text": "No implementation until research/design gate approved"},
+    {"id": "D-004", "by": "user", "text": "Do not force the personal-agent runtime into the Kaggle ZIP if the competition architecture forbids it"}
+  ],
+  "open_decisions": ["OD-1", "OD-2", "OD-3", "OD-4", "OD-5"],
+  "artifacts": [
+    {"path": "V5.5_EXPORT.zip", "kind": "export", "frozen": false, "note": "see EXPORT_MANIFEST.json for per-file SHA256"}
+  ],
+  "source_repositories": [
+    "shamiursunny/gemma-chat", "shamiursunny/gemma-coder", "shamiursunny/git-ai", "shamiursunny/SWE-agent",
+    "shamiursunny/mini-swe-agent", "shamiursunny/hindsight", "shamiursunny/ai-agent-benchmark-compendium",
+    "shamiursunny/AgentBench", "agentskills/agentskills", "addyosmani/agent-skills", "Kaggle/kaggle-benchmarks",
+    "8kta/kaggle-gemma4 (secondary mirror)"
+  ],
+  "next_action": "Provide real PROJECT_STATE.md/TASK_LOG.md/V0.5 build report (ST00); resolve OD-1..OD-5; then acquire official dataset (ST03).",
+  "last_verified": "2026-09-29",
+  "last_verified_commit": null,
+  "do_not_restart": ["ST01", "ST02"],
+  "never_modify": ["V0.5 baseline branch and artifact"]
+}

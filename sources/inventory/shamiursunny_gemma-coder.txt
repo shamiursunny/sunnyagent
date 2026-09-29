@@ -1,0 +1,7 @@
+# depth<=2 file inventory of shamiursunny_gemma-coder (HEAD df870845fb02868ad89dd70da4111b9e4d356f95|Sun May 10 23:23:29)
+# path<TAB>bytes
+.gitignore	37
+LICENSE	1072
+README.md	4675
+gemma_coder.py	14236
+docs/benchmark-evidence.md	2254

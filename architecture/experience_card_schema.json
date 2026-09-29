@@ -1,0 +1,5 @@
+{"$comment":"Own schema, inspired by (not copied from) MemGovern card fields. PROPOSAL.",
+ "id":"string","title":"string","kind":"procedural|semantic|episodic","signals":["<=8 short strings"],
+ "root_cause":"<=2 sentences","fix_strategy":"<=3 sentences","verification":"how to confirm",
+ "applicability":"repo/language conditions","provenance":{"source":"string","license":"string","derived_from_eval_set":false},
+ "max_tokens":400}
